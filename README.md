@@ -1,11 +1,14 @@
-# keycash
 
-## Project setup
+![](https://keycash.io/_nuxt/img/keycash_logo_header.5b27804.svg)
+
+![](https://img.shields.io/badge/vue-2.6.11-green) ![](https://img.shields.io/badge/bootstrap-v4.6-green)
+
+## Install node modules
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### run in development mode
 ```
 npm run serve
 ```
@@ -15,10 +18,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
